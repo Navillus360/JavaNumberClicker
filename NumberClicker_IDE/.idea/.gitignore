@@ -1,0 +1,25 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+/misc.xml
+
+# User-specific
+/tasks.xml
+/dictionaries/
+usage.statistics.xml
+
+# Local history and indexes
+/.idea/httpRequests/
+/.idea/dataSources/
+/.idea/dataSources.ids/
+/.idea/dataSources.local.xml
+/.idea/sqlDataSources.xml
+/.idea/dynamic.xml
+/.idea/uiDesigner.xml
+
+# Logs
+*.log
+
+# Maven/Gradle build outputs
+target/
+build/
